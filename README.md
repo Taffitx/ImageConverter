@@ -70,7 +70,7 @@ cmake --build .
 <details>
 <summary> Пример работы </summary>
 
-![image](https://github.com/user-attachments/assets/c5941506-eb13-4231-8354-ced0c42bdf23)
+![image](https://github.com/user-attachments/assets/e1ab88bc-bd39-4b1f-a38b-f55605d10da2)
 
 </details>
 
